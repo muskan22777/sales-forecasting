@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📈 Sales Forecasting System using Machine Learning
 
 > Predict future product sales using historical data and ML models (Linear Regression, Random Forest, Gradient Boosting) with an interactive Streamlit web app.
@@ -125,3 +126,6 @@ streamlit run app.py
 ## 📄 License
 
 This project is open source under the [MIT License](LICENSE).
+=======
+# sales-forecasting
+>>>>>>> efe41d2a789b0b1220278242929faf0cd18f095e
